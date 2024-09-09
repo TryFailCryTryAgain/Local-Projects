@@ -40,7 +40,8 @@ Här finns det också några falska qoutes:
 Länk till min [Github Profil](https://github.com/TryFailCryTryAgain).
 
 
-Här kommer en simpel fotnot för att senare kunna länka källor i senare projekt
+Här kommer en simpel fotnot för att senare kunna länka källor i senare projekt[1^].
+Här kommer en till[2^].
 
-[1^]:Fotnot1
-[2^]:Fotnot2
+[1^]:[Fotnot1](https://github.com/TryFailCryTryAgain)
+[2^]:[Fotnot2](https://github.com/TryFailCryTryAgain)
