@@ -1,5 +1,5 @@
-# Local-Projects
- This is a local repository
+# Local Projects
 
-
-### Trying to upload to github profil on github.com
+This is **NOW** a public reprository,
+that is used on my __local__ disk.
+and is no longer on my ~~One Drive~~ 
