@@ -38,3 +38,9 @@ Här finns det också några falska qoutes:
 > Too be a frog, or to be a horse - Random man
 
 Länk till min [Github Profil](https://github.com/TryFailCryTryAgain).
+
+
+Här kommer en simpel fotnot för att senare kunna länka källor i senare projekt
+
+[1^]:[Fotnot1](https://github.com/TryFailCryTryAgain)
+[2^]:[Fotnot2](https://github.com/TryFailCryTryAgain)
