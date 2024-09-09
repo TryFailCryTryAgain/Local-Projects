@@ -7,7 +7,7 @@ Har haft min första föreläsning där vi gick igenom följande:
 - Installation utav rätt terminal för vidare arbeten
 - Olika terminalkommandon inom terminalen
 
-## [Olika kommandon som vi gick igenom i förelsäningen var:](https://github.com/TryFailCryTryAgain)
+## Olika kommandon som vi gick igenom i förelsäningen var:
 - Ls (Visar vad som finns i den aktuella mappen du befinner dig i)
 - Mkdir “namn” (skapar en ny undermapp som du befinner dig i (om inte det namnet redan finns som undermapp i den mapp du befinner dig i) 
 - Cd “undermapp namn” & cd.. (hur vi navigerar fram och tillbaka i olika mappar) 
@@ -31,6 +31,8 @@ då jag gör olika typer av effekter som ni kan se nedan.
 ***Effekt 4***
 
 <sub>Effekt 5</sub>
+
+###### En väldigt liten rubrik
 
 Här finns det också några falska qoutes:
 > Too be a frog, or to be a horse - Random man
