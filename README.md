@@ -28,7 +28,7 @@ då jag gör olika typer av effekter som ni kan se nedan.
 
 ~~Effekt 3~~ 
 
-***Effekt 4*** rgb(9, 105, 218)
+***Effekt 4***
 
 <sub>Effekt 5</sub>
 
