@@ -34,3 +34,5 @@ då jag gör olika typer av effekter som ni kan se nedan.
 
 Här finns det också några falska qoutes:
 > Too be a frog, or to be a horse - Random man
+
+Länk till min [Github Profil](https://github.com/TryFailCryTryAgain).
