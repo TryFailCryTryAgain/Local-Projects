@@ -62,5 +62,3 @@ Här finns det också några falska qoutes:
 - [x] Sence of joy
 - [x] Sleep
 - [x] Repeat
-
-![alt shows the process of dispair](diagram-export-2024-09-10-13_20_54.png)
