@@ -1,4 +1,6 @@
 
+
+
 # GIT Github CMD Powershell Kommandos 
 ## Genomg�ng om vad vi har l�rt oss 
 Jag har precis b�rjat min utbildning inom Fullstack Development Open Source 
@@ -7,7 +9,11 @@ Har haft min första föreläsning där vi gick igenom följande:
 - Installation utav rätt terminal för vidare arbeten
 - Olika terminalkommandon inom terminalen
 
-### Kommando Tabell:
+> [!NOTE]
+> Om ni ser missinformation, kontakta mig gärna för att få det korrigerat!
+> Länk till min [Github Profil](https://github.com/TryFailCryTryAgain).
+
+### Kommando Tabell :spiral_notepad:
 > Här är en tabell av några kommandon vi gick igenom under föreläsningen:
 
 | Kommandon | Beskrivning |
@@ -35,12 +41,12 @@ Har haft min första föreläsning där vi gick igenom följande:
 Jag har själv gått vidare när det gäller olika typer av formerteringar via Markup Language,
 där man kan göra lite olika effekter som ni kan se nedan.
 
+>[!WARNING]
+>Text stycket nedan för är inte en riktigt text, försök inte förstå den :thumbsup:
+
 **Nunc rutrum cursus cursus.** Nulla facilisi. Fusce fermentum __molestie__ bibendum. Ut orci eros, vulputate sit amet congue quis, cursus ~~non quam~~. Integer vel placerat ex, nec fringilla augue. Donec tincidunt molestie nisl, nec ***elementum*** sapien porta non. Integer tincidunt sollicitudin lacinia. Aliquam quis <sub>semper</sub> augue.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
 Här finns det också några falska qoutes:
 > Too be a frog, or to be a horse - Random man
 
-Länk till min [Github Profil](https://github.com/TryFailCryTryAgain).
