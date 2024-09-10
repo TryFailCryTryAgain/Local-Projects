@@ -51,3 +51,7 @@ Här finns det också några falska qoutes:
 > To be a frog, or to be a horse - *Random man*
 
 > Try, Fail, Cry & Try again - *The Myth*
+
+<picture>
+    <img alt="Shows a picture of the normal workday of a programmer" src="C:\Code Folder\Github\Local Projects\Bild.jpg">
+</picture>
