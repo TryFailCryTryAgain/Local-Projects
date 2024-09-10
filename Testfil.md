@@ -6,6 +6,7 @@
     - Second nested list item
     - Nested
 
+- [] Steve
 
 | Item | In stock | Price |
 | :----|:---------|:------|
