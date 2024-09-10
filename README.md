@@ -11,13 +11,14 @@ Har haft min första föreläsning där vi gick igenom följande:
 
 > [!NOTE]
 > Om ni ser missinformation, kontakta mig gärna för att få det korrigerat!
+
 > Länk till min [Github Profil](https://github.com/TryFailCryTryAgain).
 
 ### Kommando Tabell :spiral_notepad:
 > Här är en tabell av några kommandon vi gick igenom under föreläsningen:
 
 | Kommandon | Beskrivning |
-| :-------- | :----------:|
+| :--------: | :----------:|
 | LS | Visar vad som finns i den aktuella mappen du befinner dig i |
 | Mkdir "namn" | Skapar en undermapp som du befinner dig i (om inte det namnet redan finns som under mapp i den location du befinner dig i) |
 | CD "Location namn" | Tar dig till den mappen du vill navigera dig till |
@@ -30,10 +31,10 @@ Har haft min första föreläsning där vi gick igenom följande:
 <!--Lägg till några git kommandos vi gick igenom 2024 - 09 - 10 --> 
 ### Här är några kommandos som jag har hittat 
 | Kommandon | Beskrivning |
-| :-------- | :----------:|
+| :--------: | :----------:|
 | Shutdown -s -f -t (timmer) | Man använder detta för att kunna stänga av datorn efter en specifik tid (i sekunder enheter) |
 | Nslook up "hemsida, (ex. Google.com)" | Visar upp DNS servern, namnet samt. MAC / IP adressen till sidan. |
-| git clone "länk" | Där kopierar du ner en befintlig repository från en extern server (ex. Github) |
+| Git Clone "länk" | Där kopierar du ner en befintlig repository från en extern server (ex. Github) |
 <!-- Lägg till 5 st. kommandos -->
 
 ### Olika typer av formeteringar
@@ -48,5 +49,5 @@ där man kan göra lite olika effekter som ni kan se nedan.
 
 
 Här finns det också några falska qoutes:
-> Too be a frog, or to be a horse - Random man
-
+> To be a frog, or to be a horse - *Random man*
+> Try, Fail, Cry & Try again - *The Myth*
