@@ -36,7 +36,7 @@ då jag gör olika typer av effekter som ni kan se nedan.
 
 | Commands   | Description |
 | :----------| :----------:|
-| Git Status | Displays    |
+| Git Status | Displays the status of the working directory and the staging area. It shows which changes have been staged, which haven’t, and which files aren’t being tracked by Git.    |
 
 Här finns det också några falska qoutes:
 > Too be a frog, or to be a horse - Random man
