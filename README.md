@@ -52,6 +52,4 @@ Här finns det också några falska qoutes:
 
 > Try, Fail, Cry & Try again - *The Myth*
 
-<picture>
-    <img alt="Shows a picture of the normal workday of a programmer" src="C:\Code Folder\Github\Local Projects\Bild.jpg">
-</picture>
+![alt text](Bild.jpg)
