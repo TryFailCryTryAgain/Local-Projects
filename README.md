@@ -17,13 +17,13 @@ Har haft min första föreläsning där vi gick igenom följande:
 | CD "Location namn" | Tar dig till den mappen du vill navigera dig till |
 | Echo "Text" > filnamn.filformat | Skapar ett nytt dokument/ny fil med angiven text som landar på linje 1 |
 | Echo "Text" >> filnamn.filformat | Modiferar existerande dokument och landar på nästa lediga linje |
-<-Lägg till några git kommandos vi gick igenom 2024 - 09 - 10 -> 
+<!--Lägg till några git kommandos vi gick igenom 2024 - 09 - 10 --> 
 ### Här är några kommandos som jag har hittat 
 | Kommandon | Beskrivning |
 | :-------- | :----------:|
 | Shutdown -s -f -t (timmer) | Man använder detta för att kunna stänga av datorn efter en specifik tid (i sekunder enheter) |
 | Nslook up "hemsida, (ex. Google.com)" | Visar upp DNS servern, namnet samt. MAC / IP adressen till sidan. |
-<- Lägg till 5 st. kommandos ->
+<!-- Lägg till 5 st. kommandos -->
 
 ### Olika typer av formeteringar
 
