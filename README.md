@@ -27,14 +27,16 @@ Har haft min första föreläsning där vi gick igenom följande:
 | Git Commit -a | Lägger till alla ändringar i spårade filer till stagning-området automatiskt och skapar en commit på dom |
 | Git branch | Du får upp en lista på alla branches inom ens git repository |
 | Git branch "Branch_namn" | Du skiftar över till en av de branches som finns i ens git repository |
-<!--Lägg till några git kommandos vi gick igenom 2024 - 09 - 10 --> 
+
 ### Här är några kommandos som jag har hittat 
 | Kommandon | Beskrivning |
 | :--------: | :----------:|
 | Shutdown -s -f -t (timmer) | Man använder detta för att kunna stänga av datorn efter en specifik tid (i sekunder enheter) |
 | Nslook up "hemsida, (ex. Google.com)" | Visar upp DNS servern, namnet samt. MAC / IP adressen till sidan. |
 | Git Clone "länk" | Där kopierar du ner en befintlig repository från en extern server (ex. Github) |
-<!-- Lägg till 5 st. kommandos -->
+| Git Stash | Sparar tillfälligt alla ändringar utan att utföra en commit  |
+| Git Merge "Batch-namn" | Slår ihop ändringar från den angivna batchen till den batchen du är i nuvarande |
+| Git log | Visar historiken av alla commits |
 
 ### Olika typer av formeteringar
 
