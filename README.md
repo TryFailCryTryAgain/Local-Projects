@@ -7,7 +7,7 @@ Har haft min första föreläsning där vi gick igenom följande:
 - Installation utav rätt terminal för vidare arbeten
 - Olika terminalkommandon inom terminalen
 
-### Olika kommandon:
+### Kommando Tabell:
 > Här är en tabell av några kommandon vi gick igenom under föreläsningen:
 
 | Kommandon | Beskrivning |
@@ -37,12 +37,8 @@ där man kan göra lite olika effekter som ni kan se nedan.
 
 **Nunc rutrum cursus cursus.** Nulla facilisi. Fusce fermentum __molestie__ bibendum. Ut orci eros, vulputate sit amet congue quis, cursus ~~non quam~~. Integer vel placerat ex, nec fringilla augue. Donec tincidunt molestie nisl, nec ***elementum*** sapien porta non. Integer tincidunt sollicitudin lacinia. Aliquam quis <sub>semper</sub> augue.
 
-
-#### Commands
-
-| Commands   | Description |
-| :----------| :----------:|
-| Git Status | Displays the status of the working directory and the staging area. It shows which changes have been staged, which haven’t, and which files aren’t being tracked by Git.    |
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 Här finns det också några falska qoutes:
 > Too be a frog, or to be a horse - Random man
