@@ -52,4 +52,13 @@ Här finns det också några falska qoutes:
 
 > Try, Fail, Cry & Try again - *The Myth*
 
-![alt text](Bild.jpg)
+#### A Programmers to do list :round_pushpin:
+- [x] Wake up
+- [x] Code
+- [x] Code fails
+- [x] Cry
+- [x] Debugg Code
+- [x] Code works
+- [x] Sence of joy
+- [x] Sleep
+- [x] Repeat
